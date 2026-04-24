@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @MR-UNKNOWN8014
-- 👀 I’m interested in many stuff
-- 🌱 I’m currently learning C and JAVA
-- 😄 Pronouns: He/Him
+- 👀 I’m interested in Cyber security, DevOps, SysOps & AiOps
+- 🌱 I’m currently learning Python
